@@ -14,4 +14,5 @@ Il est important de notifier que la chute des blocs est différente selon la dif
 - En mode FACILE, les blocs tomberont le plus bas possible dès qu'une ligne est complétée,
 - En mode DIFFICILE, les blocs ne tomberont que d'une seule ligne
 Attention !! Si vous vous trompez trop de fois de suite sur le placement des blocs, vous perdrez la partie !!
-Amusez-vous bien :)
+
+# Amusez-vous bien :)
